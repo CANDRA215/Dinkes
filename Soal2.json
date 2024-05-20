@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "RS Khusus Daerah Duren Sawit",
+    "Organisasi ID": "000266408",
+    "Kelas": "A",
+    "Status": "terkoneksi",
+    "Jumlah Pengiriman Data": "0",
+    "Alamat": "Jl. Duren Sawit Baru Jakarta Timur",
+    "Kota/Kab:": "Jakarta Timur",
+    "Email": "rsjiwadurensawit.developer@dto.kemkes.go.id"
+  },
+  {
+    "nama": "RS Umum Daerah Budhi Asih",
+    "Organisasi ID": "1000266501",
+    "Kelas": "B",
+    "Status": "terkoneksi",
+    "Jumlah Pengiriman Data": "116",
+    "Alamat": "Jl. Dewi Sartika, Cawang III/ 200,Jakarta Timur",
+    "Kota/Kab:": "Jakarta Timur",
+    "Email": "rsudbudhiasih.developer@dto.kemkes.go.id"
+  },
+  {
+    "nama": "RS Umum Daerah Cempaka Putih",
+    "Organisasi ID": "1000266173",
+    "Kelas": "D",
+    "Status": "terkoneksi",
+    "Jumlah Pengiriman Data": "154",
+    "Alamat": "Jl.Rawasari Selatan No1",
+    "Kota/Kab:": "Jakarta Pusat",
+    "Email": "rsudcempakaputih.developer@dto.kemkes.go.id"
+  },
+  {
+    "nama": "RS Umum Daerah Cengkareng",
+    "Organisasi ID": "1000266422",
+    "Kelas": "B",
+    "Status": "terkoneksi",
+    "Jumlah Pengiriman Data": "116",
+    "Alamat": "Jl.Kamal Raya Bumi Cengkareng Indah Jakarta Timur",
+    "Kota/Kab:": "Jakarta Barat",
+    "Email": "rsudcengkareng.developer@dto.kemkes.go.id"
+  },
+  {
+    "nama": "RS Umum Daerah Cilincing",
+    "Organisasi ID": "1000265662",
+    "Kelas": "C",
+    "Status": "terkoneksi",
+    "Jumlah Pengiriman Data": "42",
+    "Alamat": "Jl.Madya Kebantenan Nomor 4, Semper Timur, Cilincing",
+    "Kota/Kab:": "Jakarta Utara",
+    "Email": "rsudcilincing.developer@dto.kemkes.go.id"
+  },
+  {
+    "nama": "RS Umum Daerah Cipayung",
+    "Organisasi ID": "1000266068",
+    "Kelas": "D",
+    "Status": "terkoneksi",
+    "Jumlah Pengiriman Data": "87",
+    "Alamat": "Jl.mini III RT 0004 RW 003 Kelurahan Bambu Apus, Kecamatan Cipayung Kota Jakarta Timur DKI Jakarta",
+    "Kota/Kab:": "Jakarta Timur",
+    "Email": "rsudcipayung.developer@dto.kemkes.go.id"
+  }
+]
